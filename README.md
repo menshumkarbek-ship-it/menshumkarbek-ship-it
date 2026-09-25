@@ -20,13 +20,13 @@
 
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=ecommerce-microservices-core&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="E-Commerce Microservices" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=ecommerce-microservices-core&bg_color=30,161b22,0d1117&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=30363d&border_radius=15" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=SmartParkBishkek&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="Smart Park Bishkek" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=SmartParkBishkek&bg_color=30,161b22,0d1117&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=30363d&border_radius=15" width="32%" alt="Smart Park Bishkek" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=django-task-management-api&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="Task Management API" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=django-task-management-api&bg_color=30,161b22,0d1117&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=30363d&border_radius=15" width="32%" alt="Task Management API" />
   </a>
 </div>
 
@@ -43,8 +43,8 @@
 ## 📊 Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menshumkarbek-ship-it&show_icons=true&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" alt="Shumkarbek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menshumkarbek-ship-it&layout=compact&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&border_color=ffffff20&border_radius=15" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menshumkarbek-ship-it&show_icons=true&bg_color=30,161b22,0d1117&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=30363d&border_radius=15" alt="Shumkarbek's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menshumkarbek-ship-it&layout=compact&bg_color=30,161b22,0d1117&title_color=ff6bcb&text_color=c9d1d9&border_color=30363d&border_radius=15" alt="Top Languages" width="48%" />
 </div>
 
 <br>
