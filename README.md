@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src link below with a wide Yamazaki Shingen image uploaded to your repo -->
-  <img src="./assets/shingen.jpg" width="100%" alt="Yamazaki Shingen" />
+  <img src="./assets/banner.jpg" width="100%" alt="Banner" />
 </div>
 
 <br>
