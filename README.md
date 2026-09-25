@@ -48,8 +48,23 @@ I am a Backend Engineer focused on building robust, scalable, and dominant digit
 </div>
 <br>
 
----
+<br>
+
+### 🟥 Current Engineering Focus
+* ⚙️ **Backend Architecture:** Engineering secure backend endpoints, custom user authentication logic, and seamless PostgreSQL database migrations.
+* 🧠 **Algorithmic Precision:** Continuously optimizing code efficiency and logic through algorithmic problem-solving on HackerRank and LeetCode.
+* 🌐 **Full-Stack Integration:** Expanding architectural control to the frontend, initializing modern web applications utilizing Next.js, TypeScript, and Tailwind CSS.
+* 🛠️ **Deployment Workflow:** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
+
+<br>
+
+
+<br>
+
 
 <div align="center">
-  🌍 <i>Fluent in English, Russian, Kyrgyz, and Turkish</i>
+  <img src="https://img.shields.io/badge/English-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="English" />
+  <img src="https://img.shields.io/badge/Russian-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Russian" />
+  <img src="https://img.shields.io/badge/Kyrgyz-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Kyrgyz" />
+  <img src="https://img.shields.io/badge/Turkish-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Turkish" />
 </div>
