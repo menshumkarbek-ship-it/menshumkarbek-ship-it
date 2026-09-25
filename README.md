@@ -15,8 +15,8 @@
   <br>
   <br>
 
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shumkarbek-kushtarbek-uulu-0bb363422/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
+  <a href="mailto:menshumkarbek@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
 
 </div>
 
