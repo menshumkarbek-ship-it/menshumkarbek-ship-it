@@ -8,9 +8,11 @@
   
   # Shumkarbek Kushtarbek uulu
   
-  **Python & Backend Software Engineer | Architecting High-Performance Systems**
+  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Python+%26+Backend+Software+Engineer;Architecting+High-Performance+Systems;Microservices+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL" alt="Typing SVG" /></a>
+  
   <br>
-  Microservices • Task Queues (Celery/Redis) • Docker Compose • PostgreSQL
+  
+  <kbd>Task Queues</kbd> &nbsp;|&nbsp; <kbd>Celery / Redis</kbd> &nbsp;|&nbsp; <kbd>Geospatial APIs</kbd>
   
   <br>
   <br>
@@ -22,19 +24,22 @@
 
 <br>
 
-### 🟥 Executive Overview
-I am a Backend Engineer focused on building robust, scalable, and dominant digital infrastructure. From backend microservices to geospatial APIs, I prioritize clean architecture and absolute control over data flow.
+### 🟦 `<Executive_Overview>`
+> I am a Backend Software Engineer specializing in building scalable web services, `RESTful APIs`, and distributed architectures using `Python`, `Django`, and `PostgreSQL`. 
+> My engineering philosophy centers on absolute control over data flow: structuring optimal relational schemas, eliminating database bottlenecks, and orchestrating asynchronous background tasks with `Celery` and `Redis`. From containerizing predictable multi-service environments via `Docker` to authoring clean OpenAPI documentation, I build resilient digital infrastructure designed for scale.
+>
+> 🎯 **`Status:`** *Equipped with international collaboration experience, I am currently open to Junior and Mid-level Python / Backend Engineer opportunities.*
 
 <br>
 
-### 🟥 Technical Arsenal
+### 🟦 `<Technical_Arsenal>`
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,git,nextjs,ts,tailwind,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 <br>
 
-### 🟥 Featured Architecture
+### 🟦 `<Featured_Architecture>`
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
     <img src="./assets/github.jpg" width="32%" alt="E-Commerce Microservices" />
@@ -46,25 +51,22 @@ I am a Backend Engineer focused on building robust, scalable, and dominant digit
     <img src="./assets/github.jpg" width="32%" alt="Task Management API" />
   </a>
 </div>
-<br>
 
 <br>
 
-### 🟥 Current Engineering Focus
-* ⚙️ **Backend Architecture:** Engineering secure backend endpoints, custom user authentication logic, and seamless PostgreSQL database migrations.
-* 🧠 **Algorithmic Precision:** Continuously optimizing code efficiency and logic through algorithmic problem-solving on HackerRank and LeetCode.
-* 🌐 **Full-Stack Integration:** Expanding architectural control to the frontend, initializing modern web applications utilizing Next.js, TypeScript, and Tailwind CSS.
-* 🛠️ **Deployment Workflow:** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
+### 🟦 `<Current_Engineering_Focus>`
+* ⚙️ **`Backend_Architecture:`** Engineering secure backend endpoints, custom user authentication logic, and seamless PostgreSQL database migrations.
+* 🧠 **`Algorithmic_Precision:`** Continuously optimizing code efficiency and logic through algorithmic problem-solving on HackerRank and LeetCode.
+* 🌐 **`Full-Stack_Integration:`** Expanding architectural control to the frontend, initializing modern web applications utilizing Next.js, TypeScript, and Tailwind CSS.
+* 🛠️ **`Deployment_Workflow:`** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
 
 <br>
 
-
-<br>
-
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/English-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="English" />
-  <img src="https://img.shields.io/badge/Russian-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Russian" />
-  <img src="https://img.shields.io/badge/Kyrgyz-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Kyrgyz" />
-  <img src="https://img.shields.io/badge/Turkish-000000?style=flat-square&logoColor=white&labelColor=000000&color=8b0000" alt="Turkish" />
+  <img src="https://img.shields.io/badge/English-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="English" />
+  <img src="https://img.shields.io/badge/Russian-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Russian" />
+  <img src="https://img.shields.io/badge/Kyrgyz-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Kyrgyz" />
+  <img src="https://img.shields.io/badge/Turkish-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Turkish" />
 </div>
