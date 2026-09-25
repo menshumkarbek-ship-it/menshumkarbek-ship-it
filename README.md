@@ -1,15 +1,16 @@
 <div align="center">
   
-  <img src="./header.svg" alt="Shumkarbek Kushtarbek uulu">
+  # Shumkarbek Kushtarbek uulu
   
   **Python & Backend Software Engineer | B.S. Computer Science, Tamkang University**
   <br>
   Microservices • Task Queues (Celery/Redis) • Docker Compose • Geospatial APIs
   
   <br>
+  <br>
 
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Email" /></a>
 
 </div>
 
@@ -17,22 +18,17 @@
 
 ## 🚀 Featured Architecture
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">ecommerce-microservices-core</a></h3>
-      <p align="center">An e-commerce backend system emphasizing containerized microservice separation and robust PostgreSQL data handling.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">SmartParkBishkek</a></h3>
-      <p align="center">A geospatial parking reservation system engineered for Bishkek locations, integrating mapping libraries with a Django backend.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">django-task-management-api</a></h3>
-      <p align="center">An asynchronous task management backend utilizing task queues for optimized processing and performance.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=ecommerce-microservices-core&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="E-Commerce Microservices" />
+  </a>
+  <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=SmartParkBishkek&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="Smart Park Bishkek" />
+  </a>
+  <a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=django-task-management-api&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" width="32%" alt="Task Management API" />
+  </a>
+</div>
 
 <br>
 
@@ -44,11 +40,11 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menshumkarbek-ship-it&show_icons=true&bg_color=45,0b0f19,2a1b3d,0b0f19&title_color=ff6bcb&text_color=ffffff&icon_color=4b86ff&hide_border=true" alt="Shumkarbek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menshumkarbek-ship-it&layout=compact&bg_color=45,0b0f19,2a1b3d,0b0f19&title_color=ff6bcb&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menshumkarbek-ship-it&show_icons=true&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&icon_color=4b86ff&border_color=ffffff20&border_radius=15" alt="Shumkarbek's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menshumkarbek-ship-it&layout=compact&bg_color=45,ffffff05,ffffff0c&title_color=ff6bcb&text_color=c9d1d9&border_color=ffffff20&border_radius=15" alt="Top Languages" width="48%" />
 </div>
 
 <br>
