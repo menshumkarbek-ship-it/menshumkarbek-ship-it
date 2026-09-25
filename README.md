@@ -28,7 +28,7 @@
 > I am a Backend Software Engineer specializing in building scalable web services, `RESTful APIs`, and distributed architectures using `Python`, `Django`, and `PostgreSQL`. 
 > My engineering philosophy centers on absolute control over data flow: structuring optimal relational schemas, eliminating database bottlenecks, and orchestrating asynchronous background tasks with `Celery` and `Redis`. From containerizing predictable multi-service environments via `Docker` to authoring clean OpenAPI documentation, I build resilient digital infrastructure designed for scale.
 >
-> 🎯 **`Status:`** *Equipped with international collaboration experience, I am currently open to Junior and Mid-level Python / Backend Engineer opportunities.*
+> **`Status:`** *Equipped with international collaboration experience, I am currently open to Junior and Mid-level Python / Backend Engineer opportunities.*
 
 <br>
 
@@ -55,18 +55,15 @@
 <br>
 
 ### 🟦 `<Current_Engineering_Focus>`
-* ⚙️ **`Backend_Architecture:`** Engineering secure backend endpoints, custom user authentication logic, and seamless PostgreSQL database migrations.
-* 🧠 **`Algorithmic_Precision:`** Continuously optimizing code efficiency and logic through algorithmic problem-solving on HackerRank and LeetCode.
-* 🌐 **`Full-Stack_Integration:`** Expanding architectural control to the frontend, initializing modern web applications utilizing Next.js, TypeScript, and Tailwind CSS.
-* 🛠️ **`Deployment_Workflow:`** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
+*  **`Backend_Architecture:`** Engineering secure backend endpoints, custom user authentication logic, and seamless PostgreSQL database migrations.
+*  **`Algorithmic_Precision:`** Continuously optimizing code efficiency and logic through algorithmic problem-solving on HackerRank and LeetCode.
+*  **`Full-Stack_Integration:`** Expanding architectural control to the frontend, initializing modern web applications utilizing Next.js, TypeScript, and Tailwind CSS.
+*  **`Deployment_Workflow:`** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
 
 <br>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/English-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="English" />
-  <img src="https://img.shields.io/badge/Russian-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Russian" />
-  <img src="https://img.shields.io/badge/Kyrgyz-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Kyrgyz" />
-  <img src="https://img.shields.io/badge/Turkish-000000?style=flat-square&logoColor=white&labelColor=000000&color=5865F2" alt="Turkish" />
+   &nbsp; <kbd>English</kbd> &nbsp;|&nbsp; <kbd>Russian</kbd> &nbsp;|&nbsp; <kbd>Kyrgyz</kbd> &nbsp;|&nbsp; <kbd>Turkish</kbd>
 </div>
