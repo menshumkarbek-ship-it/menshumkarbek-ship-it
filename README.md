@@ -7,7 +7,6 @@
 
 <div align="center">
   
-  # Shumkarbek Kushtarbek uulu
   
   **Python & Backend Software Engineer | Architecting High-Performance Systems**
   <br>
