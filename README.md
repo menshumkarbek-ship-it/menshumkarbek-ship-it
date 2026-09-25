@@ -37,13 +37,13 @@ I am a Backend Engineer focused on building robust, scalable, and dominant digit
 ### 🟥 Featured Architecture
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
-    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/ecommerce-microservices-core" width="32%" alt="E-Commerce Microservices" />
+    <img src="./assets/ecommerce-card.png" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
-    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/SmartParkBishkek" width="32%" alt="Smart Park Bishkek" />
+    <img src="./assets/smartpark-card.png" width="32%" alt="Smart Park Bishkek" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">
-    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/django-task-management-api" width="32%" alt="Task Management API" />
+    <img src="./assets/task-api-card.png" width="32%" alt="Task Management API" />
   </a>
 </div>
 <br>
