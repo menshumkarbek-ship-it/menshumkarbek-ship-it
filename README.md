@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./header.svg" alt="Hi, I'm Shumkarbek Kushtarbek uulu">
+  <img src="./header.svg" alt="Shumkarbek Kushtarbek uulu">
   
   **Python & Backend Software Engineer | B.S. Computer Science, Tamkang University**
   <br>
