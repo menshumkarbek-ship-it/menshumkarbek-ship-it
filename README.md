@@ -37,24 +37,15 @@ I am a Backend Engineer focused on building robust, scalable, and dominant digit
 ### 🟥 Featured Architecture
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=ecommerce-microservices-core&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000&border_radius=0&v=1" width="32%" alt="E-Commerce Microservices" />
+    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/ecommerce-microservices-core" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=SmartParkBishkek&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000&border_radius=0&v=1" width="32%" alt="Smart Park Bishkek" />
+    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/SmartParkBishkek" width="32%" alt="Smart Park Bishkek" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=menshumkarbek-ship-it&repo=django-task-management-api&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000&border_radius=0&v=1" width="32%" alt="Task Management API" />
+    <img src="https://opengraph.githubassets.com/1/menshumkarbek-ship-it/django-task-management-api" width="32%" alt="Task Management API" />
   </a>
 </div>
-
-<br>
-
-### 🟥 Analytics Dashboard
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menshumkarbek-ship-it&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000&border_radius=0&v=1" alt="Shumkarbek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menshumkarbek-ship-it&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8b0000&border_radius=0&v=1" alt="Top Languages" width="48%" />
-</div>
-
 <br>
 
 ---
