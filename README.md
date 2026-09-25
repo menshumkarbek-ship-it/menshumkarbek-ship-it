@@ -61,12 +61,6 @@
 *  **`Deployment_Workflow:`** Orchestrating containerized services locally via Docker Desktop and managing strict version control through Git and GitHub.
 
 <br>
-<br>
-
-### 🟦 `<Contribution_Activity>`
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menshumkarbek-ship-it&bg_color=000000&color=ffffff&line=5865F2&point=ffffff&area=true&hide_border=true&area_color=5865F2" width="100%" alt="Contribution Graph" />
-</div>
 
 <br>
 ---
