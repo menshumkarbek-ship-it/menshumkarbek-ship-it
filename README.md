@@ -37,7 +37,7 @@ I am a Backend Engineer focused on building robust, scalable, and dominant digit
 ### 🟥 Featured Architecture
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
-    <img src="./assets/ecommerce-card.png" width="32%" alt="E-Commerce Microservices" />
+    <img src="./assets/img1.jpg" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
     <img src="./assets/smartpark-card.png" width="32%" alt="Smart Park Bishkek" />
