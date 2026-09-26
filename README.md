@@ -45,10 +45,10 @@
     <img src="./assets/lk.png" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
-    <img src="./assets/l.png" width="32%" alt="Smart Park Bishkek" />
+    <img src="./assets/lk.png" width="32%" alt="Smart Park Bishkek" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/django-task-management-api">
-    <img src="./assets/a.png" width="32%" alt="Task Management API" />
+    <img src="./assets/lk.png" width="32%" alt="Task Management API" />
   </a>
 </div>
 
