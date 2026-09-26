@@ -42,7 +42,7 @@
 ### 🟦 `<Featured_Architecture>`
 <div align="center">
   <a href="https://github.com/menshumkarbek-ship-it/ecommerce-microservices-core">
-    <img src="./assets/hiromi.jpg" width="32%" alt="E-Commerce Microservices" />
+    <img src="./assets/lk.png" width="32%" alt="E-Commerce Microservices" />
   </a>
   <a href="https://github.com/menshumkarbek-ship-it/SmartParkBishkek">
     <img src="./assets/l.png" width="32%" alt="Smart Park Bishkek" />
